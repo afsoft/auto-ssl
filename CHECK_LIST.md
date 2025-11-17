@@ -1,4 +1,4 @@
-## Certificate Status (Updated at 2025-11-16 23:40:21)
+## Certificate Status (Updated at 2025-11-17 23:40:54)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
 | eooit.cn | Feb  4 05:56:09 2026 GMT |  O = Let's Encrypt | Feb  4 05:56:12 2026 GMT |  O = Let's Encrypt |
