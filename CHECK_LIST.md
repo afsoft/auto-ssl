@@ -1,5 +1,5 @@
-## Certificate Status (Updated at 2026-07-04 01:08:33)
+## Certificate Status (Updated at 2026-07-05 01:16:21)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
-| eooit.cn | Aug  3 07:38:17 2026 GMT |  O = Let's Encrypt | Aug  3 07:38:22 2026 GMT |  O = Let's Encrypt |
+| eooit.cn | Oct  2 08:08:26 2026 GMT |  O = Let's Encrypt | Oct  2 08:08:32 2026 GMT |  O = Let's Encrypt |
 | showcolor.cc | Oct  9 07:53:36 2024 GMT |  O = Let's Encrypt | Oct  9 07:53:41 2024 GMT |  O = Let's Encrypt |
